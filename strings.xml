@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    
+    <string name="score">Score 0/8</string>
+
+    <string name="QuestionNumber"> 0/8 Question</string>
+
+    <string name="Question1">what is sum of 20 + 30  = ? </string>
+    <string name="Question1_A">50</string>
+    <string name="Question1_B">30</string>
+    <string name="Question1_C">40</string>
+    <string name="Question1_D">60</string>
+    <string name="Answer1">50</string>
+
+    <string name="Question2">what the Answer of 20 - 30  = ? </string>
+    <string name="Question2_A">50</string>
+    <string name="Question2_B">-10</string>
+    <string name="Question2_C">-50</string>
+    <string name="Question2_D">100</string>
+    <string name="Answer2">-10</string>
+
+    <string name="Question3">what is sum of 200 + 30  = ? </string>
+    <string name="Question3_A">50</string>
+    <string name="Question3_B">30</string>
+    <string name="Question3_C">40</string>
+    <string name="Question3_D">230</string>
+    <string name="Answer3">230</string>
+
+    <string name="Question4">what is sum of 20 + 300  = ? </string>
+    <string name="Question4_A">50</string>
+    <string name="Question4_B">30</string>
+    <string name="Question4_C">320</string>
+    <string name="Question4_D">60</string>
+    <string name="Answer4">320</string>
+
+    <string name="Question5">what is sum of 20 + 30  = ? </string>
+    <string name="Question5_A">50</string>
+    <string name="Question5_B">30</string>
+    <string name="Question5_C">40</string>
+    <string name="Question5_D">60</string>
+    <string name="Answer5">50</string>
+
+
+
+</resources>
